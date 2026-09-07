@@ -31,12 +31,19 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="1280" height="1253" alt="image" src="https://github.com/user-attachments/assets/abb1d949-34d0-4a6a-90de-70d93c091e37" />
 
-### Output:
+## Output:
+
+### FUSION 360:
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ba187331-1553-4cc0-aae5-1dd868d4388a" />
+
+### RENDERED:
+<img width="1920" height="692" alt="whiteboard_rendered" src="https://github.com/user-attachments/assets/8f069709-0252-41c0-9e8b-dd1dc9811a64" />
 
 
-### Name:
-### Register Number:
+### Name: GAYATHIRI ROSHINI M 
+### Register Number: 212223110012
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
